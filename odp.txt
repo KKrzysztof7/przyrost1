@@ -1,0 +1,13 @@
+1 select 2
+1 select a from b
+1 select asdasd from
+1 select piu
+3 select a from c
+3 select a from c order by t
+3 select tekst from tabela order by id
+3 select zxouczx from 123
+4 select aisbd from yyy
+4 select aoisndaponsd from zxxxxx order by xxx
+5 select AAAAAAAAAA
+6 select BBBBB from CCCCCCC
+7 select
