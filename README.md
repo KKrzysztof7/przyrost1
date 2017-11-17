@@ -1,1 +1,1 @@
-https://travis-ci.org/KKrzysztof7/przyrost1.svg?branch=master
+[![Build Status](https://travis-ci.org/KKrzysztof7/przyrost1.svg?branch=master)](https://travis-ci.org/KKrzysztof7/przyrost1)
